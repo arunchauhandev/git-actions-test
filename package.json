@@ -1,6 +1,7 @@
 {
   "name": "new-relic-14",
   "version": "0.1.0",
+  "homepage": "https://arunchauhandev.github.io/git-actions-test",
   "private": true,
   "scripts": {
     "dev": "next dev",
